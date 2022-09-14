@@ -1,7 +1,7 @@
 ### Hi there I am Ninad Karlekar 👋
 - 🌱 I’m currently learning Python and Machine learning
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NinadKarlekar)](https://github.com/NinadKarlekar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NinadKarlekar&hide=php)](https://github.com/NinadKarlekar/github-readme-stats)
 
 <!--
 
