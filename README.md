@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-- 🌱 I’m currently learning Python and Machine learning
+- 🌱 I’m currently learning Java and Automation Testing
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NinadKarlekar&hide=php)](https://github.com/NinadKarlekar/github-readme-stats)
 
