@@ -22,3 +22,9 @@
 - ⚡ Fun fact: ...
 -->
 
+<strong>Top Repositories</strong>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NinadKarlekar&repo=Project_actiTime_Ninad&theme=swift)](https://github.com/NinadKarlekar/Project_actiTime_Ninad)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NinadKarlekar&repo=Java-Virtual-Stationary-Shop&theme=swift)](https://github.com/NinadKarlekar/Java-Virtual-Stationary-Shop)
+
