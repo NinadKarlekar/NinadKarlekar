@@ -51,7 +51,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <strong>Top Repositories</strong>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NinadKarlekar&repo=Project_actiTime_Ninad&theme=swift)](https://github.com/NinadKarlekar/Project_actiTime_Ninad)
+[![Readme Card](https://github-readme-stats-new-pink.vercel.app/api/pin/?username=NinadKarlekar&repo=Project_actiTime_Ninad&theme=swift)](https://github.com/NinadKarlekar/Project_actiTime_Ninad)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NinadKarlekar&repo=Java-Virtual-Stationary-Shop&theme=swift)](https://github.com/NinadKarlekar/Java-Virtual-Stationary-Shop)
+[![Readme Card](https://github-readme-stats-new-pink.vercel.app/api/pin/?username=NinadKarlekar&repo=Java-Virtual-Stationary-Shop&theme=swift)](https://github.com/NinadKarlekar/Java-Virtual-Stationary-Shop)
 
