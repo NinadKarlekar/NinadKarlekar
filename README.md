@@ -46,10 +46,12 @@ These are some of the major technologies that I use or have worked on in the pas
 
 
 
-
+Practical_BscIT_MscIT_Ninad
 
 
 <strong>Top Repositories</strong>
+
+[![Readme Card](https://github-readme-stats-new-pink.vercel.app/api/pin/?username=NinadKarlekar&repo=Practical_BscIT_MscIT_Ninad&theme=swift)](https://github.com/NinadKarlekar/Practical_BscIT_MscIT_Ninad)
 
 [![Readme Card](https://github-readme-stats-new-pink.vercel.app/api/pin/?username=NinadKarlekar&repo=Project_actiTime_Ninad&theme=swift)](https://github.com/NinadKarlekar/Project_actiTime_Ninad)
 
