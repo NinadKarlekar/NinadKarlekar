@@ -6,7 +6,12 @@
   </a>
 </h1>
 
-- 🌱 I’m currently learning Java and Automation Testing
+
+## 🚀 About Me
+- 🌱 I’m currently learning **Java** and **Automation Testing**.
+- 	:man_student: I have completed **B.Sc. IT. In 2022** and I am Currently pursuing Degree in **M.Sc. IT.**
+
+
 
 [![Top Langs](https://github-readme-stats-new-pink.vercel.app/api/top-langs/?username=NinadKarlekar&hide=php)](https://github.com/NinadKarlekar/github-readme-stats)
 
