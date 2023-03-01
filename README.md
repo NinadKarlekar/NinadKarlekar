@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NinadKarlekar.NinadKarlekar">
 
 
-<!--
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -83,4 +83,3 @@ These are some of the major technologies that I use or have worked on in the pas
 [![Readme Card](https://github-readme-stats-new-pink.vercel.app/api/pin/?username=NinadKarlekar&repo=Project_actiTime_Ninad&theme=swift)](https://github.com/NinadKarlekar/Project_actiTime_Ninad)
 
 
--->
