@@ -8,7 +8,7 @@
   </a>
 </h1>
 
-https://ninadkarlekar.github.io/portfolionk/
+[Portfolio](https://ninadkarlekar.netlify.app/)
 
 
 ## 🚀 About Me
